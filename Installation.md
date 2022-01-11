@@ -1,4 +1,5 @@
-# Install the app (Test content)
+# Installation
+## Install the app (Test content)
 1. Install Chrome on Windows
 2. Download the installation file.
 3. If prompted, click Run or Save. If you choose Save, to start installation, either: ...
