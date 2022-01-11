@@ -7,6 +7,18 @@ baseurl:             /blog/
 paginate:            5
 permalink:           pretty
 
+docs_list_title: ABC Documentation
+docs:
+
+- title: About This Guide
+  url: about this guide.md
+
+- title: Installation
+  url: installation.md
+
+- title: Run ABC App
+  url: Run ABC app.md
+  
 # About/contact
 author:
   name:              Jisha George
