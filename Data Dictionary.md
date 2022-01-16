@@ -1,5 +1,7 @@
-
-Data dictionary
+---
+layout: page
+title: Data dictionary
+---
 https://github.com/hasura/data-dictionary
 https://github.com/WPRDC/data-guide/blob/master/docs/data_dictionaries.md
 
