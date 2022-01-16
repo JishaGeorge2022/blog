@@ -1,4 +1,8 @@
-# Installation
+---
+layout: page
+title: Installation
+---
+
 ## Install the app (Test content)
 1. Install Chrome on Windows
 2. Download the installation file.
