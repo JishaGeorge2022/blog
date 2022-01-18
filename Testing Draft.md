@@ -1,6 +1,5 @@
 
 ---
-published: false
 layout: page
 title: Draft
 ---
